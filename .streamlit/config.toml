@@ -1,0 +1,7 @@
+[theme]
+base = "dark"
+primaryColor = "#3B82F6"          # Bright Blue accent (pink poori tarah hat jayega)
+backgroundColor = "#0F172A"       # Deep slate main background
+secondaryBackgroundColor = "#1E293B" # Sidebar aur input boxes ka background
+textColor = "#F8FAFC"             # Sharp readable white/light text
+font = "sans serif"
